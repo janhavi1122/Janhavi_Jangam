@@ -57,27 +57,34 @@ st.markdown("""
    - Developed regression models using Scikit-learn to predict retail sales.  
    - Included EDA, feature selection, and model evaluation.  
    - Deployed using Streamlit.  
-   - [GitHub](https://github.com/)
+   - [GitHub](https://github.com/janhavi1122/Oasis_Task5_sales_prediction)
 
 2. **🚗 Car Price Prediction**  
    - Built ML pipeline for predicting used car prices.  
    - Addressed missing values, outliers, and applied multiple regression techniques.  
-   - [GitHub](https://github.com/)
+   - [GitHub](https://github.com/janhavi1122/Oasis_Task3_Car_price_prediction)
 
 3. **🧠 LangChain Q&A App**  
    - Created a robust app using LangChain + OpenAI to extract answers from PDF/Word files.  
    - Used FAISS vector store and deployed via FastAPI, LangServe, and LangSmith.  
-   - [GitHub](https://github.com/)
+   
 
 4. **📈 Stock Price Prediction**  
    - Forecasted Google stock prices using models like LSTM, KNN, Linear Regression, and Random Forest.  
    - Plotted trend graphs with Matplotlib and Seaborn.  
-   - [GitHub](https://github.com/)
+   - [GitHub](https://github.com/janhavi1122/Stock-price-prediction)
 
 5. **🔌 Load Forecasting using ARIMA**  
    - Utilized ARIMA for energy load prediction from real-time datasets.  
    - Tuned hyperparameters (p,d,q) and validated performance using AIC/BIC.  
-   - [GitHub](https://github.com/)
+   - [GitHub](https://github.com/janhavi1122/Load-forecasting-using-ML-LSTM-)
+            
+6. **🛠️ Car Damage Detection using YOLOv8**  
+   - Built a computer vision tool using **YOLOv8** to detect damages in car images.  
+   - Integrated with **Streamlit** for real-time image upload, detection, and visualization.  
+   - Automatically generates a downloadable **PDF report** with annotated results.  
+   - Utilized **Ultralytics YOLO**, **OpenCV**, and **FPDF** for image processing and reporting.  
+    - [GitHub](https://github.com/janhavi1122/Janhavi_Jangam)
 """)
 
 # ---------- SKILLS ----------
